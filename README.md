@@ -32,3 +32,8 @@ A Mobile Wordpress Theme
 <li>重做了搜索图标</li>
 <li>主题转移到了github上</li>
 </ul>
+
+================
+
+<a href="http://fatesinger.com/3077.html"  target="_blank">主题地址</a>  <a href="http://fatesinger.com/"  target="_blank">作者主页</a>
+
